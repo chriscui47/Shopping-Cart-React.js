@@ -12,8 +12,10 @@
     animation: App-logo-spin infinite 20s linear;
   }
 }
+.left{
+  top:1000px;
 
-.container { position: relative;  } 
+}
 .button { padding: 0; width: 50px; border: 0; background-color: #fff; color: #333; cursor: pointer; outline: 0; font-size: 40px; }
 .dropdown { position: left; top: 20%;align:left; left: 0; width: 1; z-index: 2; border: 1px solid rgba(0, 0, 0, 0.04);}
   { list-style: none; padding: 0; margin: 0; } 
@@ -31,6 +33,9 @@
 
 .App-link {
   color: #61dafb;
+}
+.formc{
+  width:20%;
 }
 
 @keyframes App-logo-spin {

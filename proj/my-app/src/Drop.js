@@ -30,10 +30,8 @@ render() {
       <div class="d-flex flex-row bd-highlight mb-3">
           <div class="p-2 bd-highlight"><img src={wood} style={{width:'1rem'}}/></div>
         <div class="p-2 bd-highlight"><div style={{size:'1rem'}}>{el}</div></div>
-      <div class="p-2 bd-highlight"><button class="btn btn-primary btn-sm" style={{padding:'1px'}}>Remove</button></div>
+      <div class="p-2 bd-highlight"><button class="btn btn-primary btn-sm" style={{padding:'1px'}} >Remove</button></div>
       </div>
-      
-      
         )
   }
   
